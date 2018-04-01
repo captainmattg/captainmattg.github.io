@@ -210,6 +210,11 @@ p{
 	font-weight: 400;
 }
 
+.story{
+	margin: 0 auto; 
+	width: 1200px !important;
+}
+
 #relic .outer{
 	height: 100% !important;
 	padding-top: 10%;
@@ -909,6 +914,23 @@ input, textarea {
 		margin-left: 5% !important;
 	}
 	
+	.perfectCon{
+		margin-top: -75px !important;
+	}
+	
+	#relic{
+		height: 2000px !important;
+	}
+	
+	.story{
+		margin: 60px auto 0 auto;
+		width: 100% !important;
+	}
+	
+	.howCard{
+		margin-bottom: 50px !important;
+	}
+	
 	.perfectCards {
 	    margin-top: 0%;
 	    text-align: center !important;
@@ -984,7 +1006,7 @@ input, textarea {
 	}
 	
 	#homeWorks{
-		height: 920px !important;
+		height: 1120px !important;
 	}
 	
 	#homeVenues{
@@ -1067,7 +1089,13 @@ input, textarea {
 		left: 50%;
 		margin-left: -550px;
 	}
-
+	
+	.storyImg {
+	    position: relative;
+	    bottom: 0;
+	    height: auto;
+	    width: 90%;
+	}
 	
 	.whereCardImg{
 		height: 150px;
