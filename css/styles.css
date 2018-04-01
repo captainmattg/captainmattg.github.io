@@ -892,6 +892,14 @@ input, textarea {
 		display: none;
 	}
 	
+	.gone{
+		display: none;
+	}
+	
+	#welText h1 {
+    	font-size: 70px;
+	}
+	
 	#homeAbout .inner{
 		width: 90% !important;
 	}
@@ -899,6 +907,15 @@ input, textarea {
 	#homePlanWid{
 		width: 90% !important;
 		margin-left: 5% !important;
+	}
+	
+	.perfectCards {
+	    margin-top: 0%;
+	    text-align: center !important;
+	    width: 100%;
+	    left: 0%;
+	    position: absolute;
+	    margin-left: 0;
 	}
 	
 	#logo{
